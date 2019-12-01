@@ -1,0 +1,248 @@
+/* Author
+
+Name: Nur Mohammad Mamun;
+Email : king.mamun007@gmail.com;
+
+*/
+
+
+/*
+
+=====Index=====
+
+1. Header
+2. Home
+3. About
+4. Features
+5. Quotes 
+6. Download
+7. Footer
+
+*/
+
+/*Global CSS*/
+body {
+	background-color: #0a2345;
+}
+
+.no-padding {
+	padding: 0px;
+	margin: 0px;
+}
+
+.btn {
+	color: #fff;
+	border-radius: 50px;
+	background: transparent;
+	border: 2px solid #153b6d;
+	display: block;
+	margin: 50px auto 100px;
+	padding: 20px 30px;
+}
+
+.btn:hover {
+	background-color: #02050b;
+	color: #fff;
+	transition: 0.5s ease;
+}
+
+/*Theme CSS*/
+
+/*Home section starts*/
+.navbar {
+	background: none!important;
+}
+
+.fixed-top {
+	position: relative!important;
+}
+
+.home {
+
+}
+
+.home h2 {
+	color: #fff;
+	text-align: center;
+	padding-top: 50px;
+}
+
+.home span {
+	color: #28599d;
+}
+
+.home p {
+	color: #28599d;
+	text-align: center;
+	margin: 30px 0px;
+}
+/*Home section ends*/
+
+
+/*About section starts*/
+.about {
+
+}
+
+.about h2 {
+	color: #fff;
+	text-align: left;
+	padding-top: 50px;
+}
+
+.about span {
+	color: #28599d;
+}
+
+.about p {
+	color: #66778e;
+	text-align: left;
+	margin: 60px 0px;
+}
+
+.about button {
+	display: block;
+	margin: 0px 0px;
+	padding: 20px 40px;
+}
+/*About section starts*/
+
+
+/*Feature section starts*/
+.feature {
+
+}
+
+.feature h2 {
+	color: #fff;
+	text-align: center;
+	padding: 80px 0px 40px;
+}
+
+.feature span {
+	color: #28599d;
+}
+
+.icon-sec {
+	color: #fff;
+	margin: 30px 0px;
+}
+
+.icon-sec h5 {
+	font-size: 24px;
+	font-weight: 400;
+}
+
+.icon-sec p {
+	font-size: 14px;
+	font-weight: 100;
+}
+
+.icon-sec img {
+	margin: 20px 0px;
+}
+
+.phone {
+
+}
+/*Feature section ends*/
+
+
+/*Playlist section starts*/
+.playlist {
+	position: relative;
+}
+
+.playlist img {
+	margin: 30px 0px;
+}
+
+.playlist h2 {
+	color: #fff;
+	padding: 30px 0px;
+}
+
+.playlist p {
+	font-weight: 100;
+	font-size: 14px;
+	color: #66778e;
+}
+
+.playlist-img {
+	position: absolute;
+	right: 0px;
+}
+/*Playlist section ends*/
+
+
+/*Quotes section starts*/
+.quotes {
+	background: url(../img/banner.png)no-repeat;
+	background-size: cover;
+}
+
+.slider {
+    background-color: #1616164a;
+    padding: 200px;
+}
+
+.carousel-item {
+	text-align: center!important;
+	color: #66778e;
+}
+
+.carousel-indicators li {
+	width: 10px;
+	height: 10px;
+	border-radius: 50%;
+}
+/*Quotes section ends*/
+
+
+/*Download section starts*/
+.download {
+	background-color: #030b14;
+}
+
+.download h2 {
+	color: #fff;
+	text-align: center;
+	padding-bottom: 50px;
+}
+
+.download p {
+	color: #465265;
+	text-align: center;
+}
+
+.download img {
+	display: block;
+	margin: 0 auto;
+}
+
+.download button {
+	display: block;
+	margin: 0 auto;
+}
+/*Download section ends*/
+
+
+/*Footer section starts*/
+footer {
+	background-color: #020306;
+	padding: 30px;
+}
+
+footer h6 {
+	color: #14396a;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+    margin: 0px 5px;
+    color: #14396a;
+}
+
+
+
